@@ -1,3 +1,7 @@
+This fork removes the Shutdown options from the quit menu. I have a toggle switch on a cabinet that controls power to the pi (inc shutdown). Shutting down using software might leave the toggle switch in an incorrect state.
+
+
+
 EmulationStation
 ================
 
